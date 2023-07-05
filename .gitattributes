@@ -1,3 +1,4 @@
 iAreaInstall.zip filter=lfs diff=lfs merge=lfs -text
 iRingXInstaller.zip filter=lfs diff=lfs merge=lfs -text
 iRingXInstall.zip filter=lfs diff=lfs merge=lfs -text
+iRingXInstaller.zipiRingXInstaller.zip filter=lfs diff=lfs merge=lfs -text
