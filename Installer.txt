@@ -1,0 +1,1 @@
+Run the installation package in the Volume folder. After the installation is complete, put the python-3.11.4-embed-amd64 folder into the iRingX folder, which is in the same directory as iRingX.exe, so that the program can run normally.
