@@ -1,2 +1,2 @@
-# iRingX
+# iRing
 Data integrator for XRD
